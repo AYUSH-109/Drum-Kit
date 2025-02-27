@@ -1,1 +1,1 @@
-# Drum-Kit
+a kit in which you can play different kind of  drum sounds
